@@ -1,4 +1,20 @@
 # Cainiao-Station-Location
+
+This project is the code for the study: 
+
+Wang, S., Zhang, Z., Su, C., Zhou, L., Liang, H., & Wang, W. (2023, November). Spatial Optimization Site Selection of Beijing Cainiao Station Based on Multi-Source Geospatial Data. In Proceedings of the 1st ACM SIGSPATIAL International Workshop on Geocomputational Analysis of Socio-Economic Data (pp. 20-23).[[Full article]](https://dl.acm.org/doi/abs/10.1145/3615892.3628479)
+
+Paper reference:
+```bash
+@inproceedings{wang2023spatial,
+  title={Spatial Optimization Site Selection of Beijing Cainiao Station Based on Multi-Source Geospatial Data},
+  author={Wang, Shaohua and Zhang, Zezhi and Su, Cheng and Zhou, Liang and Liang, Haojian and Wang, Wenda},
+  booktitle={Proceedings of the 1st ACM SIGSPATIAL International Workshop on Geocomputational Analysis of Socio-Economic Data},
+  pages={20--23},
+  year={2023}
+}
+```
+
 <p align="center">
   <img src="./assets/Work%20Flow.png"  width="420px">
 </p>
